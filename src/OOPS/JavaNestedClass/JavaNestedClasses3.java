@@ -12,7 +12,7 @@
 // Engine is running
 
 
-package JavaNestedClass;
+package OOPS.JavaNestedClass;
 
 class Car1 {
     public void startEngine() {

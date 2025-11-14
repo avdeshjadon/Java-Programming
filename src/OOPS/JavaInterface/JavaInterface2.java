@@ -10,7 +10,7 @@
 // Dog is barking
 
 
-package JavaInterface;
+package OOPS.JavaInterface;
 interface Animal {
     void bark();
 }

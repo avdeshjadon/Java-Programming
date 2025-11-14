@@ -15,7 +15,7 @@
 // Programmer Salary: 60000
 // Programmer Info: Name: Bob, Programming Language: Java
 
-package JavaAbstractClasses;
+package OOPS.JavaAbstractClasses;
 
 abstract class Employee {
     protected String name;

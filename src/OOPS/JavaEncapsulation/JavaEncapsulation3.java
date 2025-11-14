@@ -9,7 +9,7 @@
 // Balance: 5000.0
 
 
-package JavaEncapsulation;
+package OOPS.JavaEncapsulation;
 
 public class JavaEncapsulation3 {
 }

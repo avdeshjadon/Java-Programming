@@ -11,7 +11,7 @@
 // Dog Colour: Kala
 
 
-package JavaConstructor;
+package OOPS.JavaConstructor;
 
 class Dog {
     private String name;

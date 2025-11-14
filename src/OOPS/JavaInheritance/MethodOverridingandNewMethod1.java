@@ -13,7 +13,7 @@
 // Adding a new employee
 // Salary: 50000
 
-package JavaInheritance;
+package OOPS.JavaInheritance;
 
 class Employee {
     private int salary;

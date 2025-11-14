@@ -11,7 +11,7 @@
 // Drawing Rectangle
 // Drawing Triangle
 
-package JavaInterface;
+package OOPS.JavaInterface;
 interface Drawable {
     void draw();
 }

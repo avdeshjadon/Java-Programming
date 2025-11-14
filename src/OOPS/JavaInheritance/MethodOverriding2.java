@@ -10,7 +10,7 @@
 // Repairing a car
 
 
-package JavaInheritance;
+package OOPS.JavaInheritance;
 
 class Vehicle {
     void drive() {

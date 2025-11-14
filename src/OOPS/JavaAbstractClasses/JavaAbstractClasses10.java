@@ -13,7 +13,7 @@
 // Circle drawn and resized
 
 
-package JavaAbstractClasses;
+package OOPS.JavaAbstractClasses;
 
 abstract class Shape2D {
 

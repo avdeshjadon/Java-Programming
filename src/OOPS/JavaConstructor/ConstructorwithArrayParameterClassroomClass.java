@@ -12,7 +12,7 @@
 // ClassRoom : Alpha Class
 // Students : Avdesh Aman Suman
 
-package OOPS;
+package OOPS.JavaConstructor;
 
 class Classroom {
     private String className;

@@ -14,7 +14,7 @@
 // Square Area: 25
 // Square Perimeter: 20
 
-package JavaAbstractClasses;
+package OOPS.JavaAbstractClasses;
 
 abstract class GeometricShape {
     public void display() {

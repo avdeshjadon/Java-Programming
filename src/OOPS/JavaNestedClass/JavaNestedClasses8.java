@@ -11,7 +11,7 @@
 
 
 
-package JavaNestedClass;
+package OOPS.JavaNestedClass;
 
 abstract class Animal {
     abstract void makeSound();

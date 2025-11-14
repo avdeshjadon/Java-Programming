@@ -10,7 +10,7 @@
 // Country: India
 
 
-package JavaEncapsulation;
+package OOPS.JavaEncapsulation;
 
 public class JavaEncapsulation1 {
 }

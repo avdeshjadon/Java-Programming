@@ -12,7 +12,7 @@
 // RSA Decrypted Data: originalData
 
 
-package JavaInterface;
+package OOPS.JavaInterface;
 
 public class JavaInterface10 {
 }

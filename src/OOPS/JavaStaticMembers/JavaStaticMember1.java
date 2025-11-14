@@ -10,7 +10,7 @@
 // Count : 3
 
 
-package JavaStaticMembers;
+package OOPS.JavaStaticMembers;
 
 class Counter {
     private static int count = 0;

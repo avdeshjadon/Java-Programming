@@ -10,7 +10,7 @@
 // I am Running
 
 
-package JavaInheritance;
+package OOPS.JavaInheritance;
 class Animal1{
     void move(){
         System.out.println("I am moving");

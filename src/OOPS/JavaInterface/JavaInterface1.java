@@ -18,7 +18,7 @@
 
 
 
-package JavaInterface;
+package OOPS.JavaInterface;
 
 interface Shape {
     double getArea();

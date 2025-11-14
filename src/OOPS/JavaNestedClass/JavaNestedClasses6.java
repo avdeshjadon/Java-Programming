@@ -10,7 +10,7 @@
 // Sum is  : 11
 
 
-package JavaNestedClass;
+package OOPS.JavaNestedClass;
 
 class MathUtil {
     public static class Calculator {

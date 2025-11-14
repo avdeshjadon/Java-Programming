@@ -11,7 +11,7 @@
 // Address : UttarPradesh
 
 
-package JavaNestedClass;
+package OOPS.JavaNestedClass;
 
 class Person {
     String city;

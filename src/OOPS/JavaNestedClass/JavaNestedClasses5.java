@@ -12,7 +12,7 @@
 // Library Name : Central Library
 
 
-package JavaNestedClass;
+package OOPS.JavaNestedClass;
 
 class Library {
     private String libraryName;

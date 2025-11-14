@@ -26,7 +26,7 @@
 
 
 
-package JavaStaticMembers;
+package OOPS.JavaStaticMembers;
 
 class BankAccount {
     private String accountNumber;

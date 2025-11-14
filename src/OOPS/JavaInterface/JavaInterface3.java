@@ -13,7 +13,7 @@
 // Helicopter is hovering above ground
 
 
-package JavaInterface;
+package OOPS.JavaInterface;
 interface Flyable {
     void fly_obj();
     default void dispaly() {

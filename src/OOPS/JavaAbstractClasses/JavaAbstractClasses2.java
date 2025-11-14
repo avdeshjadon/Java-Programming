@@ -15,7 +15,7 @@
 // Perimeter of Triangle is : 30.00
 
 
-package JavaAbstractClasses;
+package OOPS.JavaAbstractClasses;
 
 abstract class Shape {
     final double PI = 3.14;

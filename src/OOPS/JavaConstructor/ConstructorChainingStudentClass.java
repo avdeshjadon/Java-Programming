@@ -17,7 +17,7 @@
 // Grade : A
 
 
-package JavaConstructor;
+package OOPS.JavaConstructor;
 
 class Student {
     int studentId;

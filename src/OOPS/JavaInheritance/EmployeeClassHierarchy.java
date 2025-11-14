@@ -35,7 +35,7 @@
 
 
 
-package JavaInheritance;
+package OOPS.JavaInheritance;
 
 class Employee2 {
     private String name;

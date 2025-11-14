@@ -12,7 +12,7 @@
 // Price after 10% discount: 450.0
 
 
-package JavaEncapsulation;
+package OOPS.JavaEncapsulation;
 
 public class JavaEncapsulation8 {
 }

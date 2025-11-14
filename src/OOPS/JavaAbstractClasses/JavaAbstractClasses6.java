@@ -16,7 +16,7 @@
 // Cube Volume: 343.0
 // Cube Surface Area: 294.0
 
-package JavaAbstractClasses;
+package OOPS.JavaAbstractClasses;
 
 abstract class Shape3D {
     final double PI = 3.14;

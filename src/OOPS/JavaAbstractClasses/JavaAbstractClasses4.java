@@ -15,7 +15,7 @@
 // Deer eats plants and sleeps 6 hours
 
 
-package JavaAbstractClasses;
+package OOPS.JavaAbstractClasses;
 
 abstract class Animal1 {
     public abstract void eat();

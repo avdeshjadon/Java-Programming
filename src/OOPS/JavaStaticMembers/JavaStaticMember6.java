@@ -13,7 +13,7 @@
 // GenerateID : 3
 
 
-package JavaStaticMembers;
+package OOPS.JavaStaticMembers;
 
 class IDGenerator {
     private static int nextID = 1;

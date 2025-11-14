@@ -15,7 +15,7 @@
 // Value of z: 210
 
 
-package JavaStaticMembers;
+package OOPS.JavaStaticMembers;
 
 class ComplexInitializer {
     private static int x;

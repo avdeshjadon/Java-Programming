@@ -12,7 +12,7 @@
 // Glockenspiel is being played and tuned
 // Violin is being played and tuned
 
-package JavaAbstractClasses;
+package OOPS.JavaAbstractClasses;
 
 abstract class Instrument {
 

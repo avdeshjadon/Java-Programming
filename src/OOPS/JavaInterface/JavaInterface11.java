@@ -10,7 +10,7 @@
 // MergeSort Result: [9, 7, 5, 3, 1]
 
 
-package JavaInterface;
+package OOPS.JavaInterface;
 
 public class JavaInterface11 {
 }

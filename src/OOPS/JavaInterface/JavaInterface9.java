@@ -10,7 +10,7 @@
 
 
 
-package JavaInterface;
+package OOPS.JavaInterface;
 
 public class JavaInterface9 {
 }

@@ -11,7 +11,7 @@
 // Width : 6
 
 
-package JavaConstructor;
+package OOPS.JavaConstructor;
 
 class Rectangle {
     private int length;

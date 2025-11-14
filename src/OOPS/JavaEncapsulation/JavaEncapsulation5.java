@@ -12,7 +12,7 @@
 // Perimeter: 43.982297150257104
 
 
-package JavaEncapsulation;
+package OOPS.JavaEncapsulation;
 
 public class JavaEncapsulation5 {
 }

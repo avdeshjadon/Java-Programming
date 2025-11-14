@@ -12,7 +12,7 @@
 // Resized Height: 30 Resized Width: 20
 
 
-package JavaInterface;
+package OOPS.JavaInterface;
 interface Resizable {
     void resizeWidth(int width);
     void resizeHeight(int height);

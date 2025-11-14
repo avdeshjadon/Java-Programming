@@ -13,7 +13,7 @@
 // Total Price: 300000.0
 
 
-package JavaEncapsulation;
+package OOPS.JavaEncapsulation;
 
 public class JavaEncapsulation11 {
 }

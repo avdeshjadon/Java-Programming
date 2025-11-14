@@ -14,7 +14,7 @@
 // Employee ID: E12345
 
 
-package JavaInheritance;
+package OOPS.JavaInheritance;
 
 class Person {
     private String fname;

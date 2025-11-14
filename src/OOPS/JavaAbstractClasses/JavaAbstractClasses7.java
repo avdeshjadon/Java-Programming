@@ -16,7 +16,7 @@
 
 
 
-package JavaAbstractClasses;
+package OOPS.JavaAbstractClasses;
 
 abstract class Vehicle {
     public void display() {

@@ -13,7 +13,7 @@
 // Department Name : Computer Science
 // Number of faculty members : 15
 
-package JavaNestedClass;
+package OOPS.JavaNestedClass;
 
 import java.util.Scanner;
 

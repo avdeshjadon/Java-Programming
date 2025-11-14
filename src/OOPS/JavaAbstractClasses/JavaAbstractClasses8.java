@@ -12,7 +12,7 @@
 // Athlete eats healthy and exercises daily
 // LazyPerson eats junk food and rarely exercises
 
-package JavaAbstractClasses;
+package OOPS.JavaAbstractClasses;
 
 abstract class Person {
     public void display() {

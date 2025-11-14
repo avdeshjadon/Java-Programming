@@ -34,7 +34,7 @@
 // Maximum Speed: 180 mph
 
 
-package JavaInheritance;
+package OOPS.JavaInheritance;
 
 class Vehicle1 {
     private String make;

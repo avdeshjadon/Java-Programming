@@ -10,7 +10,7 @@
 // Area of Rectangle: 50
 
 
-package JavaInheritance;
+package OOPS.JavaInheritance;
 
 class Shape {
     double getArea() {

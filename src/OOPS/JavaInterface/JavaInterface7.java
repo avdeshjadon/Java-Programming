@@ -10,7 +10,7 @@
 // SelectionSort Result: [1, 2, 3, 4, 5]
 
 
-package JavaInterface;
+package OOPS.JavaInterface;
 
 public class JavaInterface7 {
 }

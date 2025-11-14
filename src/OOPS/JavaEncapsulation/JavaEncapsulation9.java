@@ -12,7 +12,7 @@
 // Storage Capacity after increase: 256 GB
 
 
-package JavaEncapsulation;
+package OOPS.JavaEncapsulation;
 
 public class JavaEncapsulation9 {
 }

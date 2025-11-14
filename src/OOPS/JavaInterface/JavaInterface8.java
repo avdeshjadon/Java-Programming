@@ -12,7 +12,7 @@
 // Playing Football
 
 
-package JavaInterface;
+package OOPS.JavaInterface;
 interface Playable {
     void play();
 }

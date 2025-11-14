@@ -12,7 +12,7 @@
 // Processor Speed : 3.6 GHz
 
 
-package JavaNestedClass;
+package OOPS.JavaNestedClass;
 
 class Computer {
     public class Processor {

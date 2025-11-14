@@ -12,7 +12,7 @@
 // RAM Size after upgrade: 16 GB
 
 
-package JavaEncapsulation;
+package OOPS.JavaEncapsulation;
 
 public class JavaEncapsulation10 {
 }

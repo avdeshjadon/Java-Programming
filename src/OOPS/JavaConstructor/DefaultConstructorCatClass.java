@@ -11,7 +11,7 @@
 // Cat Age : 0
 
 
-package JavaConstructor;
+package OOPS.JavaConstructor;
 
 class Cat {
     private String name;

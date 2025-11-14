@@ -12,7 +12,7 @@
 // Mileage: 12.5 km/l
 
 
-package JavaEncapsulation;
+package OOPS.JavaEncapsulation;
 
 public class JavaEncapsulation6 {
 }

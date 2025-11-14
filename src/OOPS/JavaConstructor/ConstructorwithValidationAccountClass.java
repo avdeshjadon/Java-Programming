@@ -14,7 +14,7 @@
 // Balance: 65347.76
 
 
-package JavaConstructor;
+package OOPS.JavaConstructor;
 
 class Account {
     private int accountNumber;

@@ -11,7 +11,7 @@
 // Tiger growls
 
 
-package JavaAbstractClasses;
+package OOPS.JavaAbstractClasses;
 
 abstract class Animal {
     public abstract void sound();

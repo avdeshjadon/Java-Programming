@@ -10,7 +10,7 @@
 // Yaha par maine override kar diya hai:
 
 
-package JavaInheritance;
+package OOPS.JavaInheritance;
 
 class Animal {
     void makeSound() {

@@ -11,7 +11,7 @@
 // Employee Salary: ₹50000.00
 
 
-package JavaEncapsulation;
+package OOPS.JavaEncapsulation;
 
 public class JavaEncapsulation4 {
 }

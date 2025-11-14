@@ -15,7 +15,7 @@
 // Parameter of circle : 62.80
 
 
-package JavaInheritance;
+package OOPS.JavaInheritance;
 
 class Shape1 {
     private final double PI = 3.14;

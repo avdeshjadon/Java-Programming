@@ -9,7 +9,7 @@
 // The sum of two numbers is  : 9
 
 
-package JavaStaticMembers;
+package OOPS.JavaStaticMembers;
 
 class MathUtility {
     public static int add(int a, int b) {

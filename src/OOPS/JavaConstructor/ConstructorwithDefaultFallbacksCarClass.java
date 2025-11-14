@@ -18,7 +18,7 @@
 // Year : 2022
 
 
-package JavaConstructor;
+package OOPS.JavaConstructor;
 
 class Car {
     private String make;

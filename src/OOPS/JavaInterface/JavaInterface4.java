@@ -13,7 +13,7 @@
 // Interest on Current Account: 0.0
 
 
-package JavaInterface;
+package OOPS.JavaInterface;
 
 public class JavaInterface4 {
 }

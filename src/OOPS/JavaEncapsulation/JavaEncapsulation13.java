@@ -12,7 +12,7 @@
 // Movie Details: Title: Inception, Director: Christopher Nolan, Duration: 148 minutes
 
 
-package JavaEncapsulation;
+package OOPS.JavaEncapsulation;
 
 public class JavaEncapsulation13 {
 }

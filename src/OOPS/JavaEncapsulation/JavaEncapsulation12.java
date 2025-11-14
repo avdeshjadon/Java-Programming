@@ -14,7 +14,7 @@
 // After withdrawal of 200.0: 1300.0
 
 
-package JavaEncapsulation;
+package OOPS.JavaEncapsulation;
 
 public class JavaEncapsulation12 {
 }

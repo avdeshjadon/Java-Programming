@@ -11,7 +11,7 @@
 // Area : 240.31
 
 
-package JavaNestedClass;
+package OOPS.JavaNestedClass;
 
 class House {
     public void calculateArea() {

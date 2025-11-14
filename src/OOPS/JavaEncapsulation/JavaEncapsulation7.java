@@ -13,7 +13,7 @@
 // Invalid grade. Grade must be between 0 and 100.
 
 
-package JavaEncapsulation;
+package OOPS.JavaEncapsulation;
 
 public class JavaEncapsulation7 {
 }

@@ -14,7 +14,7 @@
 // Point(X,Y) : (2, 3)
 
 
-package JavaConstructor;
+package OOPS.JavaConstructor;
 
 class Point {
     private int x;

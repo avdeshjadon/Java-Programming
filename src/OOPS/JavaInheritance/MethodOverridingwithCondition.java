@@ -25,7 +25,7 @@
 
 
 
-package JavaInheritance;
+package OOPS.JavaInheritance;
 
 class BankAccount {
     private String accountNumber;

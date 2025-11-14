@@ -11,7 +11,7 @@
 // Area : 78.53975
 
 
-package JavaStaticMembers;
+package OOPS.JavaStaticMembers;
 
 import java.util.Scanner;
 

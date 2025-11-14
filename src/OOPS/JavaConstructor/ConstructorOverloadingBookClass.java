@@ -22,7 +22,7 @@
 
 
 
-package JavaConstructor;
+package OOPS.JavaConstructor;
 
 class Book {
     String title;

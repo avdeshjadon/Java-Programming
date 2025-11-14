@@ -9,7 +9,7 @@
 // Hello, World!
 
 
-package JavaNestedClass;
+package OOPS.JavaNestedClass;
 
 interface Greeting {
     void sayHello();

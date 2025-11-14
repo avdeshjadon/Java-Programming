@@ -13,7 +13,7 @@
 // Config Value : default config value
 
 
-package JavaStaticMembers;
+package OOPS.JavaStaticMembers;
 
 class configuration {
     public String configValue;

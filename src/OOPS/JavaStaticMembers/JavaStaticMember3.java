@@ -11,7 +11,7 @@
 // After creating an instance : initialValue : 1000
 
 
-package JavaStaticMembers;
+package OOPS.JavaStaticMembers;
 
 class Initializer {
     public static int initialvalue;
