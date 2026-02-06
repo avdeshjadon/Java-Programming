@@ -1,6 +1,6 @@
 package PEP;
 
-public class bitwiseOp {
+public class BitwiseOp {
     public static void main(String[] args) {
         int a = 5; // 0101
         int b = 3; // 0011

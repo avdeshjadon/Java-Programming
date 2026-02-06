@@ -1,0 +1,18 @@
+type of contructor
+
+default
+
+if complier defines a constructor is known as dc. it always 0 arguiment type constructor
+
+parameterized(user defined)
+user can defined 0 or  normal constructor
+
+where default contructor is always 0 arguiments
+
+
+user can define constructor as private
+
+
+
+
+when  we perform same operation but diffreent set of arguiments

@@ -25,8 +25,8 @@ class Point {
     }
 
     public Point(double x, double y) {
-        this.x = (int) x;
-        this.y = (int) y;
+        this.x = (int) x;  //typecasting double to int
+        this.y = (int) y;  //typecasting double to int
     }
 
     public int getX() {

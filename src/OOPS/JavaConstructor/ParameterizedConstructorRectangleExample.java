@@ -25,7 +25,7 @@ class Rectangle {
         return length;
     }
 
-    public int getWidth() {
+    public int getWidth(){
         return width;
     }
 }

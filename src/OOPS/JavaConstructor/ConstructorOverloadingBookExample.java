@@ -13,11 +13,11 @@
 // null
 // null
 // 0.0
-// Lady Gaga
-// Avdesh Premchand
+// Education
+// Avdesh
 // 0.0
-// Janeman
-// Aman
+// Education
+// Avdesh
 // 10000.0
 
 package OOPS.JavaConstructor;
@@ -46,20 +46,20 @@ public class ConstructorOverloadingBookExample {
     public static void main(String[] args) {
         // for default constructor
         Book defaultBook = new Book();
-        System.out.println(defaultBook.title);
-        System.out.println(defaultBook.author);
+        System.out.print(defaultBook.title+"  ");
+        System.out.print(defaultBook.author+"  ");
         System.out.println(defaultBook.price);
         
-        // for second constructor
-        Book avdeshBook = new Book("Lady Gaga", "Avdesh Premchand");
-        System.out.println(avdeshBook.title);
-        System.out.println(avdeshBook.author);
+        // for second constructor(parameterized constructor with two parameters)
+        Book avdeshBook = new Book("Education", "Avdesh");
+        System.out.print(avdeshBook.title+"  ");
+        System.out.print(avdeshBook.author+"  ");
         System.out.println(avdeshBook.price);
         
-        // for third constructor
-        Book amanBook = new Book("Janeman", "Aman", 10000);
-        System.out.println(amanBook.title);
-        System.out.println(amanBook.author);
+        // for third constructor(Parameterized constructor with three parameters)
+        Book amanBook = new Book("Education", "Avdesh", 10000);
+        System.out.print(amanBook.title+" ");
+        System.out.print(amanBook.author+" ");
         System.out.println(amanBook.price);
     }
 }
